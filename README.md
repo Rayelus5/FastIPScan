@@ -1,7 +1,6 @@
 # FastIPScan
 
-Este pequeño script desarrollado en BATCH está enfocado para el sistema operativo Windows con la finalidad de usarlo como un comando propio del CMD.
-
+This little script developed in Batch is focused for the Windows operating system in order to use it as a CMD command.
 
 ## Info about the script
 
